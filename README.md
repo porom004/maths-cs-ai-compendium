@@ -25,13 +25,14 @@ Over the past years working in AI/ML, I filled notebooks with intuition first, r
 | 09 | [Audio & Speech](chapter%2009%3A%20audio%20and%20speech/01.%20digital%20signal%20processing.md) | DSP, ASR, TTS, voice & acoustic activity detection, diarisation, source separation, active noise cancellation, wavenet, conformer | Available |
 | 10 | [Multimodal Learning](chapter%2010%3A%20multimodal%20learning/01.%20multimodal%20representations.md) | fusion strategies, contrastive learning, CLIP, VLMs, image/video tokenisation, cross-modal generation, unified architectures, world models | Available |
 | 11 | [Autonomous Systems](chapter%2011%3A%20autonomous%20systems/01.%20perception.md) | perception, robot learning, VLAs, self-driving cars, space robots | Available |
-| 12 | Graph Neural Networks | discreet maths, computer architecture, operating systems, RAM, concurrency, parallelism, programming languages | Coming |
+| 12 | [Graph Neural Networks](chapter%2012%3A%20graph%20neural%20networks/01.%20geometric%20deep%20learning.md) | geometric deep learning, graph theory, GNNs, graph attention, Graph Transformers, 3D equivariant networks | Available |
 | 13 | Computing & OS | discreet maths, computer architecture, operating systems, RAM, concurrency, parallelism, programming languages | Coming |
 | 14 | Data Structures & Algorithms | arrays, trees, graph, search, sorting, hashmaps | Coming |
 | 15 | SIMD & GPU Programming | ARM & NEON, X86 chips, RISC ships, GPUs, TPUs, triton, CUDA, Vulkan | Coming |
 | 16 | ML Systems Design | systems design fundamentals, cloud computing, large scale infra, ML systems design examples | Coming |
 | 17 | AI Inference | quantisation, streamingLLMs, continuous batching, edge inference, | Coming |
-| 18 | Intersecting Fields | quantum ML, neuromorphic ML, AI for finace, AI for bio | Coming |
+| 18 | Applied AI | Ai in finance, healthcare, protein, drug discovery | Coming |
+| 19 | Bleeding Edge AI | quantum ML, neuromorphic ML, decentralised AI, datacenters in space, brain machine interfaces | Coming |
 
 ## Citation
 ```bibtex
