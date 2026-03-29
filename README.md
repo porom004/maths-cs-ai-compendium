@@ -28,8 +28,8 @@ Over the past years working in AI/ML, I filled notebooks with intuition first, r
 | 12 | [Graph Neural Networks](chapter%2012%3A%20graph%20neural%20networks/01.%20geometric%20deep%20learning.md) | geometric deep learning, graph theory, GNNs, graph attention, Graph Transformers, 3D equivariant networks | Available |
 | 13 | [Computing & OS](chapter%2013%3A%20computing%20and%20OS/01.%20discrete%20maths.md) | discrete maths, computer architecture, operating systems, concurrency, parallelism, programming languages | Available |
 | 14 | [Data Structures & Algorithms](chapter%2014%3A%20data%20structures%20and%20algorithms/00.%20foundations.md) | Big O, recursion, backtracking, DP, arrays, hashing, linked lists, stacks, trees, graphs, sorting, binary search | Available |
-| 15 | Production Software Engineering | Linux fundamentals, Git fundamentals, codebase design patterns, testing | Coming |
-| 16 | SIMD & GPU Programming | ARM & NEON, X86 chips, RISC ships, GPUs, TPUs, triton, CUDA, Vulkan | Coming |
+| 15 | [Production Software Engineering](chapter%2015%3A%20production%20software%20engineering/01.%20linux%20and%20CMD.md) | Linux, Git, codebase design, testing, CI/CD, Docker, model serving, MLOps, monitoring, best way to use coding agents | Available |
+| 16 | [SIMD & GPU Programming](chapter%2016%3A%20SIMD%20and%20GPU%20programming/00.%20why%20C%2B%2B%20and%20how%20ML%20frameworks%20work.md) | C++ for ML, how frameworks work, hardware fundamentals, ARM NEON/I8MM/SME2, x86 AVX, GPU/CUDA, Triton, TPUs, RISC-V, Vulkan, WebGPU | Available |
 | 17 | ML Systems Design | systems design fundamentals, cloud computing, large scale infra, ML systems design examples | Coming |
 | 18 | AI Inference | quantisation, streamingLLMs, continuous batching, edge inference, | Coming |
 | 19 | Applied AI | Ai in finance, healthcare, protein, drug discovery | Coming |
